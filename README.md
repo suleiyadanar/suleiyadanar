@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20776
-Fork on GitHub
-6413
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Su Lei Yadanar</h1>
 <h3 align="center">Software developer with foucs in SwiftUI, Python, and Vue.js</h3>
 
